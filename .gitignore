@@ -60,3 +60,4 @@ __pycache__/
 *$py.class
 **/path/*
 **/dist/*
+/node_modules
