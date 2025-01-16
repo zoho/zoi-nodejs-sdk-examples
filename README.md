@@ -16,7 +16,7 @@ You can include the SDK to your project using:
     git clone https://github.com/zoho/office-integrator-nodejs-sdk-examples
     ```
 
-- Install [**NodeJS SDK**](https://www.npmjs.com/package/office-integrator-sdk) and other dependencies 
+- Install [**NodeJS SDK**](https://www.npmjs.com/package/@zoho-corp/office-integrator-sdk) and other dependencies 
     - Navigate to the folder **office-integrator-nodejs-sdk-examples**
         ```sh
         cd office-integrator-nodejs-sdk-examples
